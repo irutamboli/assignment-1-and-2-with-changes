@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><strong>DATING APP><strong></title>
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>DATING APPlICATION</title>
+        </head>
+        <style>
+            h1{color: rgb(236, 85, 85);
+            font: size 30px;font-family:Verdana;margin : 40px;padding : 60px;text-align: center;}
+        </style>
+        <body style="background: rgb(233, 201, 233);">
+
+            <h1>DATING APPLICATION</h1>
+        <br>
+        <br>
+        <img src="https://i.kym-cdn.com/entries/icons/original/000/017/323/OnlineDating1.jpg" alt="dating">
+            <style>
+                h2{color: rgb(236, 85, 85);
+                font: size 15px;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;margin: 15px;padding:25px ;}
+            </style>
+            <h2>Personal Details</h2>
+            
+            <style>input[type=text]{width:fit-content;padding: 2px 20px;margin: 8px 0;box-sizing: border-box;}</style>
+            <form ><label for="fname">Name:</label>
+            <input type="text" name="" id=""></form>
+            <style>input[type=email]{width:fit-content;padding: 2px 20px;margin: 8px 0;box-sizing: border-box;}</style>
+            <form ><label for="femail">Email id:</label>
+            <input type="email" name="" id=""></form>
+            <style>input[type=number]{width:fit-content;padding: 2px 20px;margin: 8px 0;box-sizing: border-box;}</style>
+            <form ><label for="fphone no">Enter Phone Number:</label>
+            <input type="number" name="" id="">
+<br>
+<br>
+            <form ><label for="gender">Gender:</label>
+                <label for="gender male">Male</label>
+           <input type="radio" name="M" id="">
+           <label for="gender female">Female</label>
+           <input type="radio" name="F" id="">
+        </form>
+        <br>
+        <style>input[type=date]{width:fit-content;padding: 2px 20px;margin: 8px 0;box-sizing: border-box;}</style>
+            <form ><label for="Proposed Date">Proposed Date:</label>
+                <input type="date" name="" id=""></form>
+                <style>input[type=time]{width:fit-content;padding: 2px 20px;margin: 8px 0;box-sizing: border-box;}</style>
+            <form ><label for="Proposed Time">Proposed Time:</label>
+                <input type="time" name="" id=""></form>
+                <br>
+            <form><label class="checkbox">I have tattoos and/or piercings</label>
+            <input type="checkbox" name="" id=""></form>
+            <br>
+            <form><label for="">I am more than 2 years older than my daughter</label>
+                <input type="checkbox" name="" id=""></form>
+                <br>
+
+                <form><label for="">I own a panel van or Ferrari</label>
+                    <input type="checkbox" name="" id=""></form>
+                    <br>
+
+                    <form><label for="">I work full time</label>
+                        <input type="checkbox" name="" id=""></form>
+                        <br>
+
+                        <form><label for="">My parents are rich</label>
+                            <input type="checkbox" name="" id=""></form>
+                            <br>
+                            <form><label for="">Is the date at a private/public location</label>
+                                <input type="checkbox" name="" id=""></form>
+                                <br>
+                                <style>input[type=text]{width:fit-content;padding: 2px 20px;margin: 8px 0;box-sizing: border-box;}</style>
+            <form><label for="">Education</label>               
+            <input type="text" name="" id=""></form>  
+            <br>
+            <style>input[type=text]{width:fit-content;padding: 2px 20px;margin: 8px 0;box-sizing: border-box;}</style>
+            <form><label for="">Why do you want to date my daughter</label> 
+                <br>
+                <textarea name="" id="" maxlength="50"></textarea></form>
+                <br>
+                <br>
+                <style>input[type=number]{width:fit-content;padding: 2px 20px;margin: 8px 0;box-sizing: border-box;}</style>
+            <form><label for="">Alternate contact</label> 
+            <input type="number" name="" id=""></form>
+            <br>
+            
+            
+            <form><label for="">Upload link</label> 
+            <input type="url" name="" id=""></form>
+        
+            <br>
+            <input type="button" value="Submit">
+            
+        
+            
+            
+        </body>
+        </html>
